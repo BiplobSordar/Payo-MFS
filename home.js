@@ -282,7 +282,7 @@ document.getElementById('transfermoney-btn').addEventListener('click', (e) => {
 
 
 document.getElementById('logout-btn').addEventListener('click',(e)=>{
-    window.location.href='/index.html'
+    window.location.href='./index.html'
 })
 
 
