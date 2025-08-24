@@ -10,7 +10,7 @@ loginBtn.addEventListener('click', (e) => {
     e.preventDefault()
     
     if (parseInt(numberInput.value) == num && parseInt(pinInput.value) == pin) {
-        window.location.href = './home.html'
+        window.location.href = './dashboard.html'
         
     }else{
 
